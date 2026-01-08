@@ -62,18 +62,6 @@ I thrive on building **impactful ML systems**, exploring **research-driven AI ap
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rititripathi09&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rititripathi09&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rititripathi09&layout=compact&theme=radical"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
