@@ -32,16 +32,6 @@ I thrive on building **impactful ML systems**, exploring **research-driven AI ap
 
 📍 **Varanasi, Uttar Pradesh, 🇮🇳 India**
 
----
-
-## 🔬 Research & Internships
-
-- 🏫 **IIT BHU, Varanasi** — Research Intern (NLP & Deep Learning)  
-- 💻 **Cognifyz Technologies** — Data Analytics Intern  
-- 🏭 **Banaras Locomotive Works (BLW)** — Technical Intern  
-- 🧪 **Keploy** — API Fellow (Open Source)
-
----
 
 ## 💻 Tech Stack
 
