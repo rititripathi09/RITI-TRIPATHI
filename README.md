@@ -1,8 +1,10 @@
-# RITI-TRIPATHI
-<h1 align="center">Hi 👋, I'm Riti Tripathi</h1>
-<h3 align="center">
-B.Tech CSE | Machine Learning • NLP • Information Retrieval | Research Intern @ IIT BHU
-</h3>
+<h1 align="center">
+  Hi 👋, I'm Riti Tripathi
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ML+%26+NLP+Research+Enthusiast;Information+Retrieval+%7C+Deep+Learning;Research+Intern+@+IIT+BHU;Always+Learning+%26+Building&center=true&width=700&height=45">
+</p>
 
 <p align="center">
   <a href="mailto:rittipathi09@gmail.com">
@@ -17,93 +19,76 @@ B.Tech CSE | Machine Learning • NLP • Information Retrieval | Research Inter
 </p>
 
 ---
+I’m a **Computer Science undergraduate at KIIT University** and a passionate **Machine Learning & NLP researcher** with a strong interest in **Information Retrieval, Deep Learning, and AI-driven systems**.
 
-## 👩‍💻 About Me
-- 🎓 **B.Tech CSE (2022–2026)** at KIIT University  
-- 🔬 **Research Intern at IIT BHU (May–July 2025)**  
-- 📄 Co-authored paper submitted to **FIRE-2025 (IIT BHU)**  
-- 🧠 Working in **Machine Learning, NLP & Multilingual Information Retrieval**
-- 💡 Interested in **Deep Learning, Medical AI, IR Systems**
-- 🌱 Open to **research roles, internships, and open-source contributions**
+Currently, I have worked as a **Research Intern at IIT BHU**, where I focused on **NLP modeling and transformer-based architectures**, building and fine-tuning models using **TensorFlow and PyTorch** for language understanding and generation tasks.
 
----
+Alongside this, I have experience as a **Data Analytics Intern at Cognifyz Technologies**, performing **EDA, sentiment analysis, and geospatial visualization** on large datasets.  
+Previously, I interned at **Banaras Locomotive Works (BLW)**, where I developed a **document tracking system using Python and SQLite** and gained exposure to real-world industrial workflows.
 
-## 🛠️ Technical Skills
+I am a **Keploy API Fellow**, actively contributing to **open-source development**, and a **co-author of a research paper submitted to FIRE-2025 (IIT BHU)** in the domain of **Multilingual Information Retrieval**.
 
-**Machine Learning & NLP**  
-- TensorFlow, PyTorch, Keras  
-- Sentence-Transformers, BERT  
-- FAISS, Vector Search  
-- NLTK, Pandas, NumPy  
+I thrive on building **impactful ML systems**, exploring **research-driven AI applications**, and collaborating within the **tech and research community**.
 
-**Programming & Tools**  
-- Python, Java, C/C++ (basic)  
-- SQL, SQLite, MySQL  
-- Jupyter, Anaconda, VS Code, IntelliJ  
-
-**Data & Analytics**  
-- Power BI, Tableau, Folium  
-- EDA, Data Pipelines, Visualization  
+📍 **Varanasi, Uttar Pradesh, 🇮🇳 India**
 
 ---
 
-## 🔬 Research & Internship Experience
+## 🔬 Research & Internships
 
-### 🏫 Indian Institute of Technology (IIT) BHU — *Research Intern*
-**May 2025 – July 2025**
-- Built and fine-tuned transformer-based NLP models
-- Worked on text understanding and generation tasks
-- Optimized deep learning architectures using TensorFlow & PyTorch
-
-### 💻 Cognifyz Technologies — *Data Analytics Intern*
-**Feb 2025 – Mar 2025**
-- Performed EDA on restaurant datasets
-- Sentiment analysis using NLP
-- Cluster visualization with Folium
-
-### 🏭 Banaras Locomotive Works (BLW) — *Technical Intern*
-**Jun 2024 – Jul 2024**
-- Developed a document tracking system (Python + SQLite)
-- Gained exposure to industrial systems and CNC processes
+- 🏫 **IIT BHU, Varanasi** — Research Intern (NLP & Deep Learning)  
+- 💻 **Cognifyz Technologies** — Data Analytics Intern  
+- 🏭 **Banaras Locomotive Works (BLW)** — Technical Intern  
+- 🧪 **Keploy** — API Fellow (Open Source)
 
 ---
 
-## 🚀 Projects
+## 💻 Tech Stack
 
-### 🔍 Cross-Lingual Mathematical Information Retrieval
-- BERT + Sentence-Transformers for text & math retrieval  
-- FAISS-based vector search  
-- Hybrid scoring: **Text (70%) + Math (30%)**
+### Programming & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn" />
+</p>
 
-### 📝 RetroScript
-- Romanized Hindi → Devanagari transliteration  
-- LSTM Seq2Seq models with synthetic data  
-- Error correction using Indic-Transliteration
+### Data, Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,sqlite,jupyter,anaconda" />
+</p>
 
-### 📂 Document Tracking System
-- Flask + SQLite based file management system  
-- Improved document traceability
-
-### 🍽️ TasteMap Insights
-- Analysis of 9,500+ restaurants  
-- Cuisine trends, ratings & sentiment analysis  
-- Interactive maps using Folium
+### Analytics & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🎓 Fellow at **Keploy** (Open-Source Contributor, 2025)
-- 📄 Research paper submitted to **FIRE-2025**
-- ☁️ AWS Cloud Foundation & Data Engineering
-- 📊 AMCAT – Software Development & Data Processing
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rititripathi09&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rititripathi09&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rititripathi09&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 🌱 Interests
-- Kathak Dance  
-- Exploring Historical Places  
-- Freestyle Sketching  
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rititripathi09&theme=radical&row=1&column=6"/>
+</p>
 
 ---
 
-⭐ *Always open to collaboration in ML, NLP, and Research projects*
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+⭐ *Always open to project collaborations, ML/NLP/DL projects, and open-source contributions.*
