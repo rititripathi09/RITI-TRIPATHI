@@ -99,18 +99,6 @@ B.Tech CSE | Machine Learning • NLP • Information Retrieval | Research Inter
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rititripathi09&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rititripathi09&theme=radical" />
-</p>
-
----
-
 ## 🌱 Interests
 - Kathak Dance  
 - Exploring Historical Places  
