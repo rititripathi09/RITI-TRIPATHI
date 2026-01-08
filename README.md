@@ -63,13 +63,6 @@ I thrive on building **impactful ML systems**, exploring **research-driven AI ap
 ---
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rititripathi09&theme=radical&row=1&column=6"/>
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
