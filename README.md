@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=ML+%26+NLP+Research+Enthusiast;Information+Retrieval+%7C+Deep+Learning;Research+Intern+@+IIT+BHU;Always+Learning+%26+Building&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ML+%26+NLP+Practitioner;Information+Retrieval+%7C+Deep+Learning;Research+Intern+@+IIT+BHU;Always+Learning+%26+Building&center=true&width=700&height=45">
 </p>
 
 <p align="center">
